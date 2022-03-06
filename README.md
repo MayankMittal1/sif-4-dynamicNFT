@@ -5,7 +5,7 @@
 </p>
 
 Metaplex is a protocol built on top of Solana that allows:
-
+- **THis includes dyamnic changing weather nft
 - **Creating/Minting** Non-Fungible Tokens;
 - **Starting** A variety of auctions for primary/secondary sales;
 - and **Visualizing** NFTs in a standard way across wallets and applications.
